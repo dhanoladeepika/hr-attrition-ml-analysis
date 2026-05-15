@@ -1,5 +1,3 @@
-Output
-
 # HR Employee Attrition — ML Prediction & Power BI Dashboard
 
 **An end-to-end people analytics project combining machine learning and business intelligence to predict employee attrition and enable data-driven HR intervention.**
